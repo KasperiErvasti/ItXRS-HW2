@@ -1,3 +1,3 @@
 # ItXRS
-Homework 1 of Introduction to XR Systems course
+Homework 2 of Introduction to XR Systems course
 # ItXRS-HW2
